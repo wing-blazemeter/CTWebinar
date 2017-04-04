@@ -11,7 +11,3 @@ scenarios:
     - http://blazedemo.com
     - http://blazedemo.com/reserve.php
 
-reporting:
-- module: blazemeter
-
-provisioning: local
