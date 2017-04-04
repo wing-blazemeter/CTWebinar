@@ -1,6 +1,6 @@
 ---
 execution:
-- concurrency: 10
+- concurrency: 30
   hold-for: 5m
   ramp-up: 30s
   scenario: sample
@@ -13,8 +13,5 @@ scenarios:
 
 reporting:
 - module: blazemeter
-
-settings:
-  default-executor: jmeter
 
 provisioning: local
