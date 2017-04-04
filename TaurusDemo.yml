@@ -1,0 +1,20 @@
+---
+execution:
+- concurrency: 10
+  hold-for: 5m
+  ramp-up: 30s
+  scenario: sample
+
+scenarios:
+  sample:
+    requests:
+    - http://blazedemo.com
+    - http://blazedemo.com/reserve.php
+
+reporting:
+- module: blazemeter
+
+settings:
+  default-executor: jmeter
+
+provisioning: local
