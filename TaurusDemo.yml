@@ -1,6 +1,6 @@
 ---
 execution:
-- concurrency: 300
+- concurrency: 20
   hold-for: 5m
   ramp-up: 30s
   scenario: sample
