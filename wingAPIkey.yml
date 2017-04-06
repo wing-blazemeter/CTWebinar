@@ -1,6 +1,6 @@
 modules:
   cloud:
-    token: 28c6e5e424d69e3f5016ff38:7fde64840f1c23e5eca47b64e108f42f18268abbe1edc2cd9a3bc92815cbea0a0d73450e
+    token: 6101a4123225344c45f3
     test: Taurus Jenkins test
     report-name: Taurus Jenkins Test - Demo Project
     project: 41226
