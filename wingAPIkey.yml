@@ -1,9 +1,9 @@
 ---
 modules:
   cloud:
-    token: 6101a4123225344c45f3
+    token: bad17533c62e56d94aa16c2d:d8cf2f55eb91528105797938b3e197d9e5563c6c6464cf693797ff0b417505f82e9a974f
     test: Taurus Jenkins test
     report-name: Taurus Jenkins Test - Demo Project
-    project: 41226
+    project: 252799
     timeout: 10s
     browser-open: start
